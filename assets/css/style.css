@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "Vermin Vibes 1989";
-    src: url("../assets/Vermin Vibes 1989.ttf");
+    font-family: "Adventurer";
+    src: url("../assets/Adventurer.ttf");
 }
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
-font-family: "Vermin Vibes 1989", serif;
+font-family: "Adventurer", serif;
   color: #272829;
 }
 
@@ -26,7 +26,7 @@ h3,
 h4,
 h5,
 h6 {
-font-family: "Vermin Vibes 1989", serif;
+font-family: "Adventurer", serif;
 }
 
 /*--------------------------------------------------------------
@@ -93,7 +93,7 @@ font-family: "Vermin Vibes 1989", serif;
   font-weight: 600;
   -moz-text-align-last: center;
   text-align-last: center;
-font-family: "Vermin Vibes 1989", serif;
+font-family: "Adventurer", serif;
 }
 
 #header .profile h1 a,
@@ -258,7 +258,7 @@ font-family: "Vermin Vibes 1989", serif;
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
-font-family: "Vermin Vibes 1989", serif;
+font-family: "Adventurer", serif;
 }
 
 #hero p span {
@@ -394,7 +394,7 @@ section {
 .facts .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 60px;
- font-family: "Vermin Vibes 1989", serif;
+ font-family: "Adventurer", serif;
   font-size: 14px;
   color: #122f57;
 }
@@ -405,7 +405,7 @@ section {
   margin-top: 20px;
   color: #122f57;
   font-size: 15px;
-font-family: "Vermin Vibes 1989", serif;
+font-family: "Adventurer", serif;
   transition: ease-in-out 0.3s;
 }
 
